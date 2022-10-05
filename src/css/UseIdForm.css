@@ -1,0 +1,8 @@
+.useIdform{
+    display: flex;
+    flex-direction: column;
+} 
+
+.useIdform__btnSubmit{
+    margin-top: 10px;
+}
