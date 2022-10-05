@@ -16,6 +16,7 @@ const UseTransitionCounter = () => {
     //   console.log("Counter 1 changing***");
     //   return oldCount + 1;
     // });
+
     startTransition(() => {
       // mark setCount as non urgent state update
       setCount((oldCount) => {
